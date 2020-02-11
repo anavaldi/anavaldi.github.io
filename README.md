@@ -1,2 +1,2 @@
-# anavali.github.io
+# anavaldi.github.io
 My personal website
